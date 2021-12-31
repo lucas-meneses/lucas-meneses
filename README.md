@@ -1,0 +1,3 @@
+- 👋 Hi, I'm Lucas Meneses
+- 👀 I'm interested in Game Development
+- 🌱 I'm currently learning C# and Unity
